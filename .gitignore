@@ -1,0 +1,12 @@
+# Root
+node_modules/
+.env
+*.log
+
+# Client
+client/build/
+client/node_modules/
+
+# Server
+server/node_modules/
+server/uploads/  # If storing images locally
